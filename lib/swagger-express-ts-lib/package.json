@@ -47,5 +47,8 @@
         "inversify-express-utils": "^4.2.2",
         "lodash": "^4.17.10",
         "reflect-metadata": "^0.1.10"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.0"
     }
 }
